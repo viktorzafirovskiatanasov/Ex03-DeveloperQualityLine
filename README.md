@@ -117,5 +117,6 @@ personal-details-manager/
 ├── personal-details-manager.php   # Main plugin file
 └── README.md
 👨‍💻 Author
-![alt text](image.png)
+<img width="1707" height="647" alt="image" src="https://github.com/user-attachments/assets/bbe8f266-c943-4bb6-8b6f-8561eed2b773" />
+
 Viktor Zafirovski Atanasov
